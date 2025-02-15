@@ -8,6 +8,8 @@ I expect that sometime in the near future the majority of newly released games w
 
 Until then I will try to update it maybe if I have time.
 
+If you want to discover more AI tools and insights about artificial intelligence feel free to check out [AI Tools Nexus](https://aitoolsnexus.net/) (website still in progress).
+
 ## **Role Playing**
 
 [AI Dungeon](https://aidungeon.com) \- Text adventure where every story is unique, choose scenarios or create your own.
