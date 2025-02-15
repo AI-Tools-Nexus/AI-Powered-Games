@@ -52,9 +52,9 @@ Until then I will try to update it maybe if I have time.
 
 [Galactic Civilizations IV Supernova](https://www.galciv4.com/) \- Allows you to use generative AI to create custom civilizations.
 
-[Retail Mage](https://store.steampowered.com/app/3224380/Retail_Mage/?beta=1) \- Store management with LLM-powered customers, and interact with items through prompting.
+[Retail Mage](https://store.steampowered.com/app/3224380/Retail_Mage/?beta=1) \- Store management with LLM-powered customers, also interact with items through text prompting.
 
-[AI Town](https://www.convex.dev/ai-town) \- Social simulation game where you observe AI agents.
+[AI Town](https://www.convex.dev/ai-town) \- Social simulation game where you observe AI agents interact with each other.
 
 ## **Puzzle and Strategy**
 
