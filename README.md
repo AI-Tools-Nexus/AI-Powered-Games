@@ -111,3 +111,13 @@ Note: I might not accept any contributions to this list because I don't have any
 [Elefant](https://elefant.gg/) \- Play with sophisticated AI agents that learn from their own gameplay through reinforcement learning.
 
 [AIMobs](https://modrinth.com/mod/aimobs) \- Chat with any Minecraft mob using OpenAI's API.
+
+## **Upcoming Games and AI Implementation**
+
+[MIR5](https://www.youtube.com/watch?v=-8XeiZ4djKw) \- Upcoming Korean MMORPG featuring adaptive AI bosses that learn from combat encounters and progressively increase in difficulty.
+
+[INZOI](https://www.krafton.com/en/games/inzoi/) \- Upcoming Sims-like game with AI-driven NPCs that dynamically respond to player actions.
+
+[NARAKA: BLADEPOINT](https://www.narakathegame.com/) \- Adding AI companions that can understand voice commands and engage in conversation while fighting alongside players.
+
+[PUBG: BATTLEGROUNDS](https://krafton.com/en/games/battlegrounds/) \- Adding sophisticated AI bots capable of making tactical callouts and responding to player commands.
