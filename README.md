@@ -98,3 +98,16 @@ Note: I might not accept any contributions to this list because I don't have any
 
 [Hexagen World](https://hexagen.world) \- Generate 3D artwork on hexagonal tiles in a shared world.
 
+## **Mods**
+
+**Skyrim**
+
+[Mantella](https://www.nexusmods.com/skyrimspecialedition/mods/98631) \- Uses text-to-speech and large language models to enable dynamic conversations with all NPCs.
+
+[CHIM](https://www.nexusmods.com/skyrimspecialedition/mods/126330) \- Advanced follower mod allowing voice chat with NPCs that have an in-depth awareness of their environment and react to your voice commands.
+
+**Minecraft**
+
+[Elefant](https://elefant.gg/) \- Play with sophisticated AI agents that learn from their own gameplay through reinforcement learning.
+
+[AIMobs](https://modrinth.com/mod/aimobs) \- Chat with any Minecraft mob using OpenAI's API.
