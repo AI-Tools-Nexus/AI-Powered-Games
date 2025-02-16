@@ -34,7 +34,9 @@ Note: I might not accept any contributions to this list because I don't have any
 
 [JOBifAI](https://store.steampowered.com/app/3248650/JOBifAI/) \- Visual novel where you convince an art director to hire you using an AI-generated portfolio.
 
-## **Adventure**
+## **Action And Adventure**
+
+[Justice Mobile](https://www.neteasegames.com/news/20230524/37000_1089673.html) \- Popular Chinese MMO featuring LLM-powered NPCs.
 
 [Eve.nt\[0\]](https://store.steampowered.com/app/470260/Event0/) \- Sci-fi game where you talk to an LLM-powered space computer.
 
